@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{342C3C6A-E239-44B5-B165-C55E805FD0F9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="avaliacao06_logarEdelogar/iLogin.cs">
+    <Files>
+      <File FileName="avaliacao06_logarEdelogar/Program.cs" Line="12" Column="32" />
+      <File FileName="avaliacao06_logarEdelogar/Usuario.cs" Line="17" Column="10" />
+      <File FileName="avaliacao06_logarEdelogar/iLogin.cs" Line="7" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.avaliacao06__logarEdelogar PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

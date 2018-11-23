@@ -1,0 +1,11 @@
+/Users/aluno/Projects/avaliacao06_logarEdelogar/avaliacao06_logarEdelogar/bin/Debug/netcoreapp2.1/avaliacao06_logarEdelogar.deps.json
+/Users/aluno/Projects/avaliacao06_logarEdelogar/avaliacao06_logarEdelogar/bin/Debug/netcoreapp2.1/avaliacao06_logarEdelogar.runtimeconfig.json
+/Users/aluno/Projects/avaliacao06_logarEdelogar/avaliacao06_logarEdelogar/bin/Debug/netcoreapp2.1/avaliacao06_logarEdelogar.runtimeconfig.dev.json
+/Users/aluno/Projects/avaliacao06_logarEdelogar/avaliacao06_logarEdelogar/bin/Debug/netcoreapp2.1/avaliacao06_logarEdelogar.dll
+/Users/aluno/Projects/avaliacao06_logarEdelogar/avaliacao06_logarEdelogar/bin/Debug/netcoreapp2.1/avaliacao06_logarEdelogar.pdb
+/Users/aluno/Projects/avaliacao06_logarEdelogar/avaliacao06_logarEdelogar/obj/Debug/netcoreapp2.1/avaliacao06_logarEdelogar.csprojAssemblyReference.cache
+/Users/aluno/Projects/avaliacao06_logarEdelogar/avaliacao06_logarEdelogar/obj/Debug/netcoreapp2.1/avaliacao06_logarEdelogar.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/avaliacao06_logarEdelogar/avaliacao06_logarEdelogar/obj/Debug/netcoreapp2.1/avaliacao06_logarEdelogar.AssemblyInfoInputs.cache
+/Users/aluno/Projects/avaliacao06_logarEdelogar/avaliacao06_logarEdelogar/obj/Debug/netcoreapp2.1/avaliacao06_logarEdelogar.AssemblyInfo.cs
+/Users/aluno/Projects/avaliacao06_logarEdelogar/avaliacao06_logarEdelogar/obj/Debug/netcoreapp2.1/avaliacao06_logarEdelogar.dll
+/Users/aluno/Projects/avaliacao06_logarEdelogar/avaliacao06_logarEdelogar/obj/Debug/netcoreapp2.1/avaliacao06_logarEdelogar.pdb
